@@ -99,6 +99,7 @@ Construction
 ------------
 
 An IdFix signed token is made of two parts:
+
 * an origin string composed of a version number, a timestamp and a nonce
 * an armored signature of the cleartext string
 
